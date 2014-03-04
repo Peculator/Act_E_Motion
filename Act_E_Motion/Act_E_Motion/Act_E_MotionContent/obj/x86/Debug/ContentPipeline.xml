@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>SpriteFont1.spritefont</Source>
+      <Name>SpriteFont1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\sven\Documents\Visual Studio 2010\Projects\Act_E_Motion\Act_E_Motion\Act_E_Motion\bin\x86\Debug\Content\SpriteFont1.xnb</Output>
+      <Time>2013-01-13T15:54:18.5117285+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Video\Wildlife.wmv</Source>
+      <Name>Video\Wildlife</Name>
+      <Importer>WmvImporter</Importer>
+      <Processor>VideoProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\sven\Documents\Visual Studio 2010\Projects\Act_E_Motion\Act_E_Motion\Act_E_Motion\bin\x86\Debug\Content\Video\Wildlife.xnb</Output>
+      <Extra>C:\Users\sven\Documents\Visual Studio 2010\Projects\Act_E_Motion\Act_E_Motion\Act_E_Motion\bin\x86\Debug\Content\Video\Wildlife.wmv</Extra>
+      <Time>2013-04-04T19:07:12.9362036+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Image\800px-2011-07-29-deep-sky-7.jpg</Source>
+      <Name>Image\deep-sky</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\sven\documents\visual studio 2010\Projects\Act_E_Motion\Act_E_Motion\Act_E_Motion\bin\x86\Debug\Content\Image\deep-sky.xnb</Output>
+      <Time>2013-10-17T13:19:59+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Image\800px-Tracy_Caldwell_Dyson_in_Cupola_ISS.jpg</Source>
+      <Name>Image\ISS</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\sven\documents\visual studio 2010\Projects\Act_E_Motion\Act_E_Motion\Act_E_Motion\bin\x86\Debug\Content\Image\ISS.xnb</Output>
+      <Time>2013-10-17T13:37:45+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Image\Beethoven.jpg</Source>
+      <Name>Image\Beethoven</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\sven\documents\visual studio 2010\Projects\Act_E_Motion\Act_E_Motion\Act_E_Motion\bin\x86\Debug\Content\Image\Beethoven.xnb</Output>
+      <Time>2013-10-17T13:34:28+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\Claude_Debussy_clair_de_lune.mp3</Source>
+      <Name>Music\Debussy</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\sven\documents\visual studio 2010\Projects\Act_E_Motion\Act_E_Motion\Act_E_Motion\bin\x86\Debug\Content\Music\Debussy.xnb</Output>
+      <Extra>C:\Users\sven\documents\visual studio 2010\Projects\Act_E_Motion\Act_E_Motion\Act_E_Motion\bin\x86\Debug\Content\Music\Debussy.wma</Extra>
+      <Time>2013-10-17T17:52:24.1977064+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\PMLP01607_Symphony_No.mp3</Source>
+      <Name>Music\Beethoven</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\sven\documents\visual studio 2010\Projects\Act_E_Motion\Act_E_Motion\Act_E_Motion\bin\x86\Debug\Content\Music\Beethoven.xnb</Output>
+      <Extra>C:\Users\sven\documents\visual studio 2010\Projects\Act_E_Motion\Act_E_Motion\Act_E_Motion\bin\x86\Debug\Content\Music\Beethoven.wma</Extra>
+      <Time>2013-10-17T17:59:34.8153364+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\Wolfgang_Amadeus_Mozart_Clarinet_Concerto_2.mp3</Source>
+      <Name>Music\Mozart</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\sven\documents\visual studio 2010\Projects\Act_E_Motion\Act_E_Motion\Act_E_Motion\bin\x86\Debug\Content\Music\Mozart.xnb</Output>
+      <Extra>C:\Users\sven\documents\visual studio 2010\Projects\Act_E_Motion\Act_E_Motion\Act_E_Motion\bin\x86\Debug\Content\Music\Mozart.wma</Extra>
+      <Time>2013-10-17T17:56:54.0991439+02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\sven\documents\visual studio 2010\Projects\Act_E_Motion\Act_E_Motion\Act_E_MotionContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\sven\documents\visual studio 2010\Projects\Act_E_Motion\Act_E_Motion\Act_E_Motion\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\sven\documents\visual studio 2010\Projects\Act_E_Motion\Act_E_Motion\Act_E_MotionContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\sven\documents\visual studio 2010\Projects\Act_E_Motion\Act_E_Motion\Act_E_Motion\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-10-08T19:16:39.7666382+02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

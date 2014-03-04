@@ -1,0 +1,12 @@
+Content\SpriteFont1.xnb
+Content\Video\Wildlife.xnb
+Content\Video\Wildlife.wmv
+Content\Image\deep-sky.xnb
+Content\Image\ISS.xnb
+Content\Image\Beethoven.xnb
+Content\Music\Debussy.xnb
+Content\Music\Debussy.wma
+Content\Music\Beethoven.xnb
+Content\Music\Beethoven.wma
+Content\Music\Mozart.xnb
+Content\Music\Mozart.wma
